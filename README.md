@@ -16,7 +16,7 @@ Just a simple student trying to learn :)
 ![](https://github-profile-trophy.vercel.app/?username=SarthakBhushan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Halopin Badges
-[![@sarthakbhushan's Holopin board](https://holopin.io/api/user/board?user=sarthakbhushan)](https://holopin.io/@sarthakbhushan)
+[![An image of @sarthakbhushan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakbhushan)](https://holopin.io/@sarthakbhushan)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
